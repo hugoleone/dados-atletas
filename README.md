@@ -85,6 +85,7 @@ console.log(atleta.obtemCategoria());
 console.log(atleta.obtemIMC());
 console.log(atleta.obtemMediaValida());
 
+```
 
 # Como Executar
 
